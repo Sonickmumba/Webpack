@@ -1,56 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+Webpack
 > Description the project.
-
+In this Exercise i build a simple webpack boilerplate which will be used a starting point for projects to bundle javascript. I will use webpack official guides.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Babel Loader
+- Sass Loader
+- HTMLWebpackPlugin
+- WebpackDevServer
+- Asset Resource Loader
+- Source Maps
+- Caching
 
-## Live Demo (if available)
+## Usage
 
-[Live Demo Link](https://livedemo.com)
+Run Dev Server (Port 7000)
 
+```
+  npm run dev
+```
 
-## Getting Started
+## Build for production
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+npm run build
+```
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Sonickmumba)
+- Twitter: [@twitterhandle](https://twitter.com/Sonick Mumba)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinSonick)
 
 ## 🤝 Contributing
 
@@ -64,9 +49,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
